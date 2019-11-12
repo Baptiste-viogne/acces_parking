@@ -20,7 +20,7 @@
 
 
 
-void initAfficheur(int adress);
+void initAfficheur(int adress);			//fonction qui initialise lafficheur on passe ladresse en parametre
 void effacerAfficheur (int adress);
 void setEclairage(int adress,int valeur);
 
